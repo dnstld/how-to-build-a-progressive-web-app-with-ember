@@ -1,7 +1,6 @@
-# how-to-build-a-progressive-web-app-with-ember
+# How to build a Progressive Web App with Ember
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+* [By: Marten Schilstra](https://dockyard.com/blog/2017/07/20/how-to-build-a-pwa-with-ember)
 
 ## Prerequisites
 
